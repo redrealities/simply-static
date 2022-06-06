@@ -5,12 +5,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Plugin Name:       Simply Static
- * Plugin URI:        https://patrickposner.dev
- * Description:       A static site generator to create fast and secure static versions of your WordPress website.
+ * Plugin Name:       RR Simply Static
+ * Plugin URI:        https://redrealities.com
+ * Description:       A static site generator customised by Red Realities
  * Version:           2.1.5.8
- * Author:            Patrick Posner
- * Author URI:        https://patrickposner.dev
+ * Author:            Patrick Posner & Alex Chernov
+ * Author URI:        https://alexchernov.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       simply-static
